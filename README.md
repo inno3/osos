@@ -1,8 +1,8 @@
 # OSOS : un projet d'analyse de réseau d'acteurs
 
-Cette étude a comme objectif d'étudier les dynamiques actuelles entre open science et open source.
+Cette étude a comme objectif d'étudier les dynamiques actuelles entre _open science_ et Open Source.
 
-Suite à la participation d'Inno³ à [CHAOSScon](https://chaoss.community/chaosscon-2020-eu/) et sa présence à la devroom "Open Research Tools and Technologies" de [FOSDEM](https://fosdem.org/2020/schedule/track/open_research_tools_and_technologies/), ce projet de recherche a pris comme point de départ l’analyse du réseau de suivi Twitter des participants de ces deux événements-espaces afin d'explorer l'écosystème qui se forme à la croisée de l'open science et de l'open source en 2020.
+Suite à la participation d'Inno³ à [CHAOSScon](https://chaoss.community/chaosscon-2020-eu/) et sa présence à la devroom "Open Research Tools and Technologies" de [FOSDEM](https://fosdem.org/2020/schedule/track/open_research_tools_and_technologies/), ce projet de recherche a pris comme point de départ l’analyse du réseau de suivi Twitter des participants de ces deux événements-espaces afin d'explorer l'écosystème qui se forme à la croisée de l'_open science_ et de l'Open Source en 2020.
 
 Ce projet fait lui-même l'objet d'une démarche de science ouverte et met à disposition la documentation relative au processus de recherche, les fichiers de données collectées, le code utilisé pour les traiter ainsi que les visualisations produites.
 
