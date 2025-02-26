@@ -15,17 +15,7 @@ Ce projet fait lui-même l'objet d'une démarche de science ouverte et met à di
 
 ## Documentation
 
-- Le détail des commandes utilisées pour la récolte des données se trouve dans le fichier `About_twarc_data_file.md` dans le `twarc_data`
-
-- Le processus de recherche est entièrement documenté dans le [Wiki](https://framagit.org/inno3/chaosscon_fosdem20-research-project/-/wikis/home) 
-
-On y trouve notamment les pages suivantes:
-
-- le [carnet de bord](https://framagit.org/inno3/chaosscon_fosdem20-research-project/-/wikis/Carnet-de-bord), où sont détaillées les évolutions et les avancées du projet semaine par semaine
-- les pages contenant les informations utilisées pour cibler les acteurs d'intérêt des conférences [Fosdem](Conférences/Fosdem20) et [ChaossCon 2020](Conférences/CHAOSSCon)
-- les [évolutions des objectifs et pistes de recherche](Méthodo/Evolution-des-objectifs-et-pistes-de-recherche) ainsi qu'une [page d'outils](Méthodo/Outils) répertoriés au fil de la recherche
-- les [notes de lecture](https://framagit.org/inno3/chaosscon_fosdem20-research-project/-/wikis/Notes-de-lecture) associées aux réflexions théoriques qui sous-tendent ce projet
-- une page [TroubleShooting](https://framagit.org/inno3/chaosscon_fosdem20-research-project/-/wikis/TroubleShooting) consacrée à la documentation et la résolution de certains problèmes techniques rencontrés
+Le détail des commandes utilisées pour la récolte des données se trouve dans le fichier `About_twarc_data_file.md` dans le `twarc_data`
 
 ## Bibliographie
 
@@ -50,16 +40,8 @@ This project is itself an experiment in open science and provides open access to
 
 ## Documentation
 
-- the commands used to collect data from Twitter are detailed in the file `About_twarc_data_file.md` in the `twarc_data` repo
-- the documentation of the entire research process can be found in the project's [Wiki](https://framagit.org/inno3/chaosscon_fosdem20-research-project/-/wikis/home)
+The commands used to collect data from Twitter are detailed in the file `About_twarc_data_file.md` in the `twarc_data` repo
 
-The wiki is comprised of several pages :
-
-- a [research log](https://framagit.org/inno3/chaosscon_fosdem20-research-project/-/wikis/Carnet-de-bord), which gives a weekly account of the project's evolution and setbacks
-- pages with detailed information about [Fosdem](Conférences/Fosdem20) and [ChaossCon 2020](Conférences/CHAOSSCon) and people of interest related to each event
-- notes on the development of the project's [research objectives and inquiries](Méthodo/Evolution-des-objectifs-et-pistes-de-recherche) and a page referencing [useful tools](Méthodo/Outils)
-- [reading notes and extracts](https://framagit.org/inno3/chaosscon_fosdem20-research-project/-/wikis/Notes-de-lecture) relating to the project's theoretical underpinnings
-- a [TroubleShooting](https://framagit.org/inno3/chaosscon_fosdem20-research-project/-/wikis/TroubleShooting) page that documents some of technical difficulties encountered along the way and their resolution
 
 ## Bibliography
 
